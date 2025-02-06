@@ -1,14 +1,13 @@
 # **Cybersecurity Home Lab**
 
-## What is a home lab?
+## **What is a Homelab?**
 
-1. Firewall
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+## Tools
+- VirtualBox
+- Kali Linux
+
+## **Network Design & Topology**
+
+## **Set-Up & Documentation**
+
+## **Resources**
