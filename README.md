@@ -1,4 +1,4 @@
-# Cybersecurity Home Lab
+# Cybersecurity Home Lab Setup
 
 1. Firewall
 2.
