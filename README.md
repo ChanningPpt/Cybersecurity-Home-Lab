@@ -1,6 +1,6 @@
 # **Cybersecurity Home Lab**
 
-## **What is a Homelab?**
+## **Project Overview**
 
 ## Tools
 - VirtualBox
