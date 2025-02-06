@@ -1,4 +1,6 @@
-# Cybersecurity Home Lab Setup
+# **Cybersecurity Home Lab**
+
+## What is a home lab?
 
 1. Firewall
 2.
